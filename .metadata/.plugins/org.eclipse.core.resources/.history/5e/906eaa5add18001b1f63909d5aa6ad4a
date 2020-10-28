@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package com.tecnotab.limits.bean;
+
+/**
+ * @author Priyabrat Rath
+ *
+ */
+public class LimitConfiguration {
+	
+	private int maximum;
+	private int minimum;
+	
+	
+
+}

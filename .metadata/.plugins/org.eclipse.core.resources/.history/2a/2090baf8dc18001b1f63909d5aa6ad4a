@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.tecnotab.limits.controller;
+
+/**
+ * @author Priyabrat Rath
+ *
+ */
+public class LimitsConfigurationController {
+
+}

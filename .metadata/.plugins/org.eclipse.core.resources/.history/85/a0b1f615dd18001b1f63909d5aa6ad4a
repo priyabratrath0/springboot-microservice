@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.tecnotab.limits.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author Priyabrat Rath
+ *
+ */
+@RestController
+public class LimitsConfigurationController {
+
+}

@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package com.tecnotab.limits.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.tecnotab.limits.bean.LimitConfiguration;
+
+/**
+ * @author Priyabrat Rath
+ *
+ */
+@RestController
+@RequestMapping("/api")
+public class LimitsConfigurationController {
+	
+	@GetMapping("/limits")
+	public LimitConfiguration returnLimits() {
+		
+	}
+
+}
